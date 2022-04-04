@@ -52,8 +52,7 @@
 #'  of nonlinear processes, \emph{Journal of Statistical Planning and
 #'  Inference}, vol. 68, no. 1, pp. 145-165
 #'
-#' @seealso \code{\link[stats]{arima.sim}},
-#'  \code{\link[FitARMA]{SimulateGaussianARMA}}
+#' @seealso \code{\link[stats]{arima.sim}}
 #'
 sim.ARMA <- function (n, ar = NULL, ma = NULL, sigma = 1, eta = NULL, method = "strong", k = 1, mu=0, ...)
 {

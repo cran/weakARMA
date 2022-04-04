@@ -1,4 +1,4 @@
-d499d9a9d758c2611df8a3678c443d0b *DESCRIPTION
+42466f26f351ee1e0efe8fb6776c7eac *DESCRIPTION
 b2eb00f8e22960b28f09169653e463a7 *NAMESPACE
 e93ea4ee26f13ae68a6ac6652f51c5bc *R/Acf.R
 23d8611698b003d34f7a3df973a2133a *R/CAC40return.R
@@ -13,10 +13,10 @@ f762a20250f9f7baa8542e62a66ef0bc *R/MatXi.R
 3a36784eca51b15be7076ef18a429027 *R/Residual.R
 728bb2d2ae7d3d565e6b53b9b9d2d78a *R/Selection.R
 d2e52576d195df1ac86df09c1b81f42e *R/Signif_param.R
-7018d3f4efcb168fc4f77bbefc952163 *R/SimARMA.R
+d11348e7dc574920f7d456aab6ed5f8b *R/SimARMA.R
 3322dcd88b3a6959bcd8f8119c5cca5c *R/VARest.R
 7f769b201fdd4e8a7fbc68ffef3c6dbe *R/WhiteNoise.R
-2e7a7370c6ac5ec10dc0196b23000c89 *README.md
+363387a72f424c9aa317f5384dfd584a *README.md
 15ddad90fcfc4590deea56f96472dbec *data/CAC40.rda
 e85e7d08c2ad38e462932054009436a9 *data/CAC40return.rda
 ccd4fc6f9264d7be42103f96b4e4e6ff *data/CAC40return.sq.rda
@@ -36,7 +36,7 @@ c3a01910148eb501b403145b884a5514 *man/omega.Rd
 97285d03509e5972de351dc842b58eac *man/portmanteauTest.Rd
 73d57c5a23dd64aeee0d1e184465ea70 *man/portmanteauTest.h.Rd
 6728d7522d3415fcf7a4d7286a4839e3 *man/signifparam.Rd
-77b86496d33fe6071e688e0a5144d46b *man/sim.ARMA.Rd
+0a3a7e7c75105061b0ee0942fb1901ca *man/sim.ARMA.Rd
 621e297e007bba125b1fe3ddf28e03e5 *man/simGARCH.Rd
 22166ea7cf151e8c76f0230e6ad4c8a2 *man/wnPT.Rd
 98ff438a703418c0f1125256c3f67f2d *man/wnPT_SQ.Rd

@@ -1,7 +1,7 @@
 Package: weakARMA
 Title: Tools for the Analysis of Weak ARMA Models
-Version: 1.0.2
-Date: 2022-02-03
+Version: 1.0.3
+Date: 2022-04-04
 Authors@R: c(
   person(given = "Yacouba", family = "Boubacar Maïnassara",
          email = "yacouba.boubacar_mainassara@univ-fcomte.fr",
@@ -39,12 +39,12 @@ LazyData: true
 Imports: CompQuadForm (>= 1.4.3), MASS (>= 7.3-54), matrixStats (>=
         0.61), vars (>= 1.5-6)
 RoxygenNote: 7.1.2
-Suggests: timeSeries, FitARMA, testthat, knitr, rmarkdown, renv
+Suggests: timeSeries, testthat, knitr, rmarkdown, renv
 NeedsCompilation: no
 Maintainer: Julien Yves Rolland <julien.rolland@univ-fcomte.fr>
 URL: https://plmlab.math.cnrs.fr/jrolland/weakARMA
 BugReports: https://plmlab.math.cnrs.fr/jrolland/weakARMA/-/issues
-Packaged: 2022-02-04 16:31:35 UTC; jrolland
+Packaged: 2022-04-04 13:37:26 UTC; jrolland
 Author: Yacouba Boubacar Maïnassara [aut]
     (<https://orcid.org/0000-0002-8604-5407>),
   Julien Yves Rolland [aut, cre]
@@ -52,4 +52,4 @@ Author: Yacouba Boubacar Maïnassara [aut]
   Coraline Parguey [ctb],
   Vincent Mouillot [ctb]
 Repository: CRAN
-Date/Publication: 2022-02-07 12:00:02 UTC
+Date/Publication: 2022-04-04 14:00:02 UTC

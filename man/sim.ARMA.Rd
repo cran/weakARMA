@@ -80,6 +80,5 @@ Francq, C. and Zakoïan, J.M. 1998, Estimating linear representations
  Inference}, vol. 68, no. 1, pp. 145-165
 }
 \seealso{
-\code{\link[stats]{arima.sim}},
- \code{\link[FitARMA]{SimulateGaussianARMA}}
+\code{\link[stats]{arima.sim}}
 }
